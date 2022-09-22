@@ -1,7 +1,7 @@
 # 原生JS封装的移动端轮播图
 
 ## demo演示
-
+![image](https://github.com/MambaYang/MySwiper/blob/master/swiperdemo.gif)
 
 
 ## 线上实例
